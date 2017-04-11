@@ -1,1 +1,2 @@
-# Collection of various SMU Data Science projects - enjoy!
+# SMU MSDS 
+Collection of various SMU MSDS projects
