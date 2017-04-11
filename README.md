@@ -1,1 +1,1 @@
-# SMU_DataScience
+# Collection of various SMU Data Science projects - enjoy!
