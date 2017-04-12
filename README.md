@@ -2,7 +2,7 @@
 Collection of various SMU MSDS projects
 * Python / IPython Notebook
 * R Markdown
-* Processing
+* Processing / Java
 * SAS
-* openFrameworks
+* openFrameworks / C++
 * D3
