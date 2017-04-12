@@ -4,3 +4,5 @@ Collection of various SMU MSDS projects
 * R Markdown
 * Processing
 * SAS
+* openFrameworks
+* D3
